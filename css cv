@@ -1,0 +1,34 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif; 
+    color:red;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif; 
+}
+
+body {
+    font-family: "Times New Roman", Times, serif; 
+}
+
+h2.notbold {
+    font-weight:normal;
+}
+
+hr {
+    border-style: normal;
+    border-color: orange;
+    border-width: 4px;
+  }
+
+  dt{
+      color: brown;
+  }
+
+h3, h4{
+    color: blue;
+}
